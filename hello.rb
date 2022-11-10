@@ -1,5 +1,4 @@
-print ('Hi!')
-print ('World')
+print ('Hi World!')
 print ('a + b')
 a = 10
 b = 2
